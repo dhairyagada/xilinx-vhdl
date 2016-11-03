@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "H:/Xil/Full_Adder/FA.xst" -ofn "H:/Xil/Full_Adder/FA.syr" 
+xst -intstyle ise -ifn "H:/Xil/Full_Adder/FA.xst" -ofn "H:/Xil/Full_Adder/FA.syr" 
+xst -intstyle ise -ifn "H:/Xil/Full_Adder/FA.xst" -ofn "H:/Xil/Full_Adder/FA.syr" 
+xst -intstyle ise -ifn "H:/Xil/Full_Adder/FA.xst" -ofn "H:/Xil/Full_Adder/FA.syr" 
+xst -intstyle ise -ifn "H:/Xil/Full_Adder/FA.xst" -ofn "H:/Xil/Full_Adder/FA.syr" 
